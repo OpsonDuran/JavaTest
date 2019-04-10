@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="020d483d-c068-4dfa-bc1e-95c47ca7a672" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/JavaTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opson/JavaTest/payments/PaymentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opson/JavaTest/payments/PaymentRequets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opson/JavaTest/payments/PaymentResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opson/JavaTest/payments/PaymentsGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opson/JavaTest/player/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opson/JavaTest/player/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opson/JavaTest/utils/PasswordUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/opson/JavaTest/utils/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/opson/JavaTest/payments/PaymentProcessorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/opson/JavaTest/player/PlayerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/opson/JavaTest/utils/PasswordUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/opson/JavaTest/utils/StringUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/opson/JavaTest/payments/PaymentProcessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/opson/JavaTest/payments/PaymentRequets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/opson/JavaTest/payments/PaymentResponse$PaymentStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/opson/JavaTest/payments/PaymentResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/opson/JavaTest/payments/PaymentsGateway.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/opson/JavaTest/player/Dice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/opson/JavaTest/player/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/opson/JavaTest/utils/PasswordUtils$SecurityLevel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/opson/JavaTest/utils/PasswordUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/opson/JavaTest/utils/StringUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/opson/JavaTest/payments/PaymentProcessorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/opson/JavaTest/player/PlayerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/opson/JavaTest/utils/PasswordUtilsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/opson/JavaTest/utils/StringUtilsTest.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/opson/JavaTest/utils/StringUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+              <folding>
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/opson/JavaTest/utils/StringUtilsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#417#418#0" expanded="true" />
+                <element signature="e#485#486#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+                <element signature="e#627#628#0" expanded="true" />
+                <element signature="e#678#679#0" expanded="true" />
+                <element signature="e#721#722#0" expanded="true" />
+                <element signature="e#782#783#0" expanded="true" />
+                <element signature="e#851#852#0" expanded="true" />
+                <element signature="e#898#899#0" expanded="true" />
+                <element signature="e#963#964#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/opson/JavaTest/utils/PasswordUtilsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/opson/JavaTest/player/PlayerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-106">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/opson/JavaTest/payments/PaymentsGateway.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/opson/JavaTest/payments/PaymentRequets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="36" lean-forward="true" selection-start-column="36" selection-end-column="36" />
+              <folding>
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/opson/JavaTest/payments/PaymentProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/opson/JavaTest/payments/PaymentProcessorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/opson/JavaTest/payments/PaymentResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/opson/JavaTest/utils/PasswordUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/opson/JavaTest/player/Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/opson/JavaTest/player/Player.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/opson/JavaTest/player/Dice.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/opson/JavaTest/player/Dice.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/opson/JavaTest/player/PlayerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/opson/JavaTest/payments/PaymentsGateway.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/opson/JavaTest/payments/PaymentRequets.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/opson/JavaTest/payments/PaymentResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/opson/JavaTest/payments/PaymentProcessor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/opson/JavaTest/payments/PaymentProcessorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/opson/JavaTest/utils/StringUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/opson/JavaTest/utils/PasswordUtilsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/opson/JavaTest/utils/StringUtilsTest.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554355708244" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.opson.JavaTest.payments" />
+      <recent name="com.opson.JavaTest.player" />
+      <recent name="com.opson.JavaTest.utils" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.opson.JavaTest.payments" />
+      <recent name="com.opson.JavaTest.player" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.StringUtilsTest.in_case_empty">
+    <configuration name="PaymentProcessorTest.payment_is_correct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.opson.JavaTest.payments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.opson.JavaTest.payments" />
+      <option name="MAIN_CLASS_NAME" value="com.opson.JavaTest.payments.PaymentProcessorTest" />
+      <option name="METHOD_NAME" value="payment_is_correct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentProcessorTest.payment_is_failed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.opson.JavaTest.payments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.opson.JavaTest.payments" />
+      <option name="MAIN_CLASS_NAME" value="com.opson.JavaTest.payments.PaymentProcessorTest" />
+      <option name="METHOD_NAME" value="payment_is_failed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringUtilsTest.in_case_empty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.opson.JavaTest.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.opson.JavaTest.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.opson.JavaTest.utils.StringUtilsTest" />
+      <option name="METHOD_NAME" value="in_case_empty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringUtilsTest.in_case_not_null" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.opson.JavaTest.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.opson.JavaTest.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.opson.JavaTest.utils.StringUtilsTest" />
+      <option name="METHOD_NAME" value="in_case_not_null" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringUtilsTest.in_case_null" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.opson.JavaTest.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.opson.JavaTest.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.opson.JavaTest.utils.StringUtilsTest" />
+      <option name="METHOD_NAME" value="in_case_null" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StringUtilsTest.in_case_empty" />
+        <item itemvalue="JUnit.StringUtilsTest.in_case_not_null" />
+        <item itemvalue="JUnit.StringUtilsTest.in_case_null" />
+        <item itemvalue="JUnit.PaymentProcessorTest.payment_is_failed" />
+        <item itemvalue="JUnit.PaymentProcessorTest.payment_is_correct" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="020d483d-c068-4dfa-bc1e-95c47ca7a672" name="Default Changelist" comment="" />
+      <created>1554264751116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554264751116</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PlayerTest - 2019.04.10 at 00h 19m 12s.xml">
+      <configuration name="PlayerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PaymentProcessorTest_payment_is_failed - 2019.04.10 at 00h 19m 21s.xml">
+      <configuration name="PaymentProcessorTest.payment_is_failed" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PaymentProcessorTest_payment_is_correct - 2019.04.10 at 00h 19m 29s.xml">
+      <configuration name="PaymentProcessorTest.payment_is_correct" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PaymentProcessorTest_payment_is_failed - 2019.04.10 at 00h 19m 49s.xml">
+      <configuration name="PaymentProcessorTest.payment_is_failed" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PaymentProcessorTest_payment_is_failed - 2019.04.10 at 00h 20m 11s.xml">
+      <configuration name="PaymentProcessorTest.payment_is_failed" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PaymentProcessorTest_payment_is_failed - 2019.04.10 at 00h 20m 31s.xml">
+      <configuration name="PaymentProcessorTest.payment_is_failed" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringUtilsTest_in_case_null - 2019.04.10 at 00h 29m 59s.xml">
+      <configuration name="StringUtilsTest.in_case_null" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringUtilsTest_in_case_null - 2019.04.10 at 00h 31m 18s.xml">
+      <configuration name="StringUtilsTest.in_case_null" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringUtilsTest_in_case_not_null - 2019.04.10 at 00h 31m 24s.xml">
+      <configuration name="StringUtilsTest.in_case_not_null" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringUtilsTest_in_case_empty - 2019.04.10 at 00h 31m 27s.xml">
+      <configuration name="StringUtilsTest.in_case_empty" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="768" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26510575" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32844576" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32844576" />
+      <window_info anchor="bottom" id="Flutter Performance" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Flutter Inspector" order="8" />
+      <window_info anchor="right" id="Flutter Outline" order="9" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/opson/JavaTest/utils/PasswordUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/opson/JavaTest/player/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/opson/JavaTest/player/Dice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/requests/FilterRequest.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/opson/JavaTest/player/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/opson/JavaTest/player/Dice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/opson/JavaTest/player/PlayerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-106">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/opson/JavaTest/payments/PaymentsGateway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/opson/JavaTest/payments/PaymentRequets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" lean-forward="true" selection-start-column="36" selection-end-column="36" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/opson/JavaTest/payments/PaymentResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/opson/JavaTest/payments/PaymentProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/opson/JavaTest/payments/PaymentProcessorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/opson/JavaTest/utils/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding>
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/opson/JavaTest/utils/PasswordUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/opson/JavaTest/utils/StringUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#851#852#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#963#964#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
